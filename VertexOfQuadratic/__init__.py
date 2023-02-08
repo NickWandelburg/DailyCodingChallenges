@@ -1,4 +1,4 @@
-# Find Vertex of a Quadratic Function
+# Find the vertex of a quadratic function
 def find_vertex(a, b, c):
     # solved derivative of quadratic function
     x = -b / (2 * a)
