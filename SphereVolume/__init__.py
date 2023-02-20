@@ -6,12 +6,11 @@ def get_volume(radius):
 
 
 if __name__ == '__main__':
-    # radius
+    # Radius
     r = 5.0
 
-    # compute the volume
+    # Compute the volume
     volume = get_volume(r)
 
-    # display the result
     print(f'The volume of a sphere with radius {r} is {volume:.2f}')
 
